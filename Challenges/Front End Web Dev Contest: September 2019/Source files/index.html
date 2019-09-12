@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Front End Web Dev Contest: September 2019</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <!--I use Font Awesome 5, link from "https://www.w3schools.com/icons/fontawesome5_intro.asp"-->
+</head>
+
+<body>
+    <div id="main-form">
+
+        <div id="login-form" class="login-register-forms">
+            <h1 id="login-header">Log In</h1>
+
+            <form>
+                <div>
+                    <input type="email" name="email" placeholder="email" class="info-inputs">
+                    <input type="password" name="password" placeholder="password" class="info-inputs">
+                </div>
+
+                <div class="checks-inputs">
+                    <label class="checkbox-container">
+                        <input type="checkbox" name="remember-me" id="remember-me">
+                        <span>Remember me</span>
+                    </label>
+                    <a href="forget.html" target="_blank" id="forget-link">Forget password?</a>
+                </div>
+
+                <input type="button" value="LOG IN" id="login-button">
+            </form>
+
+            <div class="connect-with">
+                <!-- Use of inline styling-->
+                <hr class="hr-lines" style="float: left;">
+                <p style="display: inline;">Or Connect With</p>
+                <hr class="hr-lines" style="float: right;">
+            </div>
+
+            <div>
+                <a href="https://www.facebook.com/" target="_blank" class="link-icons">
+                    <i class="fab fa-facebook-f fa-lg social-icons"></i>
+                </a>
+                <a href="https://twitter.com/" target="_blank" class="link-icons">
+                    <i class="fab fa-twitter fa-lg social-icons"></i>
+                </a>
+                <a href="https://github.com/" target="_blank" class="link-icons">
+                    <i class="fab fa-github fa-lg social-icons"></i>
+                </a>
+                <a href="https://www.linkedin.com/" target="_blank" class="link-icons">
+                    <i class="fab fa-linkedin-in fa-lg social-icons"></i>
+                </a>
+            </div>
+
+            <p><sub>© 2019</sub></p>
+        </div>
+
+        <div id="register-form" class="login-register-forms">
+            <i class="fas fa-user-plus fa-5x"></i>
+
+            <h1>Hello, friend!</h1>
+
+            <p>Enter your personal details and start journey<br>
+                with us</p>
+
+            <button class="register-button">REGISTER <i class="far fa-arrow-alt-circle-right fa-lg arrow-move"></i></button>
+        </div>
+
+    </div>
+</body>
+
+</html>
