@@ -19,7 +19,7 @@ This is my procedures of work:
 Download my [work!](https://github.com/AymenBrxII/1MAC-FrontEndWebDev./tree/master/Challenges/Front%20End%20Web%20Dev%20Contest:%20September%202019/Source%20files)
 
 # Conclusion
-At the first sight it looks so simple, but once I've started to work I faced some problems that challenge your mind and help you train your skills.
+At the first sight it looks so simple, but once I've started to work I faced some problems that challenge my mind and help me train my skills.
 
 It took me a whole day to finish, very beneficial. Feedbacks about my mistakes and best practices are much appreciated.
 
