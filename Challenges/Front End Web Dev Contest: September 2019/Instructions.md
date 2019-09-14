@@ -14,12 +14,14 @@ This is my procedures of work:
   6. Add extra stuff like: shadow, simple button hover animation and Forget password's webpage.
   7. Use of [The W3C Markup Validation Service](https://validator.w3.org/).
 
-**Note:** I have used documentations like [MDN Web Docs](https://developer.mozilla.org/en-US/) and [W3Schools](https://www.w3schools.com/).
+**Note01:** I have used documentations like [MDN Web Docs](https://developer.mozilla.org/en-US/) and [W3Schools](https://www.w3schools.com/).
+
+**Note02:** I've used [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) as a code formatter under [Visual Studio Code](https://code.visualstudio.com/).
 
 # Result
 Check my [work!](https://github.com/AymenBrxII/1MAC-FrontEndWebDev./tree/master/Challenges/Front%20End%20Web%20Dev%20Contest:%20September%202019/Source%20files)
 
-
+<img src="https://raw.githubusercontent.com/AymenBrxII/1MAC-FrontEndWebDev./master/Challenges/Front%20End%20Web%20Dev%20Contest%3A%20September%202019/my%20prototype%20(Mozilla%20Firefox).png" alt="My prototype under Mozilla Firefox" title="My prototype under Mozilla Firefox" width="75%">
 
 # Conclusion
 At the first sight it looks so simple, but once I've started to work I faced some problems that challenge my mind and help me train my skills.
