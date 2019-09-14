@@ -19,13 +19,13 @@ This is my procedures of work:
 **Note02:** I've used [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) as a code formatter under [Visual Studio Code](https://code.visualstudio.com/).
 
 # Result
-Check my [work!](https://github.com/AymenBrxII/1MAC-FrontEndWebDev./tree/master/Challenges/Front%20End%20Web%20Dev%20Contest:%20September%202019/Source%20files)
+Check the [source files](https://github.com/AymenBrxII/1MAC-FrontEndWebDev./tree/master/Challenges/Front%20End%20Web%20Dev%20Contest:%20September%202019/Source%20files), or just click [here!](https://aymenbrxii.github.io/1MAC-FrontEndWebDev./) 
 
 <img src="https://raw.githubusercontent.com/AymenBrxII/1MAC-FrontEndWebDev./master/Challenges/Front%20End%20Web%20Dev%20Contest%3A%20September%202019/my%20prototype%20(Mozilla%20Firefox).png" alt="My prototype under Mozilla Firefox" title="My prototype under Mozilla Firefox" width="75%">
 
 # Conclusion
 At the first sight it looks so simple, but once I've started to work I faced some problems that challenge my mind and help me train my skills.
 
-It took me a whole day (11 Sep. 2019) to finish it, very beneficial. Feedbacks about my mistakes and best practices are much appreciated.
+It took me a whole day (11 Sep. 2019) to finish it and some hours (14 Sep. 2019) to fix it, very beneficial. Feedbacks about my mistakes and best practices are much appreciated.
 
 Thanks for reading 🙂
