@@ -19,7 +19,7 @@ This is my procedures of work:
 # Result
 Check my [work!](https://github.com/AymenBrxII/1MAC-FrontEndWebDev./tree/master/Challenges/Front%20End%20Web%20Dev%20Contest:%20September%202019/Source%20files)
 
-<img src="https://raw.githubusercontent.com/AymenBrxII/1MAC-FrontEndWebDev./master/Challenges/Front%20End%20Web%20Dev%20Contest%3A%20September%202019/my%20prototype%20(Mozilla%20Firefox).png" alt="My prototype under Mozilla Firefox" title="My prototype under Mozilla Firefox" width="75%">
+
 
 # Conclusion
 At the first sight it looks so simple, but once I've started to work I faced some problems that challenge my mind and help me train my skills.
