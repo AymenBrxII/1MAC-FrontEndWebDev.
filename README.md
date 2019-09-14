@@ -1,5 +1,5 @@
 # 1MAC-FrontEndWebDev.
-All the projects made during my adventure with [1MAC "One Million Arab Coders"](https://arabcoders.ae/) and [Udacity](https://www.udacity.com/), Front End Web Dev. track
+My personal learning adventure with [1MAC "One Million Arab Coders"](https://arabcoders.ae/) and [Udacity](https://www.udacity.com/), Front End Web Development track.
 
 # Front End Web Dev. Program
 The track is divided into two parts:
