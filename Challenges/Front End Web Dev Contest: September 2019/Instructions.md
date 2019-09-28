@@ -28,4 +28,8 @@ At the first sight it looks so simple, but once I've started to work I faced som
 
 It took me a whole day (11 Sep. 2019) to finish it and some hours (14 Sep. 2019) to fix it, very beneficial. Feedbacks about my mistakes and best practices are much appreciated.
 
+In 27 Sep. 2019, the winners were announced. I am selected as the first champion ⭐
+
+<img src="https://raw.githubusercontent.com/AymenBrxII/1MAC-FrontEndWebDev./master/Challenges/Front%20End%20Web%20Dev%20Contest%3A%20September%202019/Sep.%202019%20winner%20profile.png" alt="My profile" title="My profile" width="30%">
+
 Thanks for reading 🙂
